@@ -9,7 +9,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ## Acesse o projeto
 
-Você pode acessar o projeto hospedado [aqui](https://feed-react-lime.vercel.app/).
+Você pode acessar o projeto hospedado [aqui](https://feed-react-ts-theta.vercel.app/).
 
 
 ### 🔧 Instalação
@@ -17,7 +17,7 @@ Você pode acessar o projeto hospedado [aqui](https://feed-react-lime.vercel.app
 Clone do repositorio:
 
 ```
-https://github.com/anjosmarcos/feed-react.git
+https://github.com/anjosmarcos/feed-react-ts.git
 ```
 
 Executar com o comando:
